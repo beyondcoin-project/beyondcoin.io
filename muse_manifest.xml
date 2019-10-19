@@ -1,0 +1,113 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Beyondcoin.org" resolutions="1x" timestamp="1571507028242">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="322495294" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4155090462" ref="index"/>
+    <file name="index.css" crc="3898562907" ref="index"/>
+    <file name="nomq_index.css" crc="4159808193" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="whitepaper.pdf" crc="3850915620" seo="true" mt="1571076580000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="beyond-favicon.ico" crc="431799547" ref="index"/>
+    <file name="twitter-logo-silhouette.png" crc="3851766100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="discord_icon.png" crc="4264476187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-logo.png" crc="4038869619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork-745.svg" crc="449007841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 745_poster_.png" crc="4127132172" ref="index"/>
+    <file name="artwork-732.svg" crc="197266833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 732_poster_.png" crc="3813608503" ref="index"/>
+    <file name="artwork-733.svg" crc="246433176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 733_poster_.png" crc="17025828" ref="index"/>
+    <file name="artwork-735.svg" crc="11874993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 735_poster_.png" crc="4197917546" ref="index"/>
+    <file name="artwork-734.svg" crc="3896856758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 734_poster_.png" crc="334978410" ref="index"/>
+    <file name="91374.png" crc="499507228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork-742.svg" crc="528923952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 742_poster_.png" crc="534849338" ref="index"/>
+    <file name="artwork-743.svg" crc="3939484870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 743_poster_.png" crc="117386549" ref="index"/>
+    <file name="logo.svg" crc="4025319583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_poster_.png" crc="4174351793" ref="index"/>
+    <file name="91374331x197.png" crc="275292631" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="91374305x182.png" crc="4013107347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4010027672" seo="true" mt="1571507001388" redirect="true"/>
+</manifest>
